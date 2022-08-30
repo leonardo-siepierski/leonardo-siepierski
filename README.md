@@ -1,10 +1,10 @@
 <h1 align="center">Olá! Meu nome é Leonardo Siepierski</h1>
 
-<h3 align="center">Tenho 22 anos e sou desenvolvedor web</h3>
+<h3 align="center">Tenho 22 anos e sou desenvolvedor de software</h3>
 
 ## Sobre mim
 
-Sou estudante da Trybe e concluí o módulo de Front-end. No momento, estou aprendendo sobre Back-end.
+Sou desenvolvedor fullstack com foco em back end
 
 ## Linguagens e ferramentas:
 

@@ -26,7 +26,7 @@
 </div>
 <br />
 <div>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-siepierski&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a></p>
+  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-siepierski&layout=compact&theme=vision-friendly-dark" title="Top Languages" **alt="Top Languages"></a></p>
 </div>
 
 <h3>Connect with me</h3>

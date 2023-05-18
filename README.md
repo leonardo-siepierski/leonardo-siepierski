@@ -2,8 +2,8 @@
 
 <h3>About me</h3>
 
-<p>I'm a software developer, currently @<a href="https://intelitrader.com.br/">Intelitrader</a></p>
-<p>I work mostly with C#, developing mobile apps using Xamarin and their backend with .NET Framework</p>
+<p>I'm a software developer, currently @<a href="https://hyperlocal.com.br">Hyperlocal</a></p>
+<p>I work mostly with C#, developing backend applications using ASP.NET Core</p>
 
 <h3>Languages and tools</h3>
 <div>
